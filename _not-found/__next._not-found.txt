@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[36064,["/crossmint-benchmark/_next/static/chunks/eee3fa4a069aaac4.js","/crossmint-benchmark/_next/static/chunks/c21188132e0e0d48.js","/crossmint-benchmark/_next/static/chunks/3ecbb78a8ff87549.js"],"default"]
 3:I[81497,["/crossmint-benchmark/_next/static/chunks/eee3fa4a069aaac4.js","/crossmint-benchmark/_next/static/chunks/c21188132e0e0d48.js","/crossmint-benchmark/_next/static/chunks/3ecbb78a8ff87549.js"],"default"]
-0:{"buildId":"PrVT6foKqIk1zY_-YWnnt","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"Wjef2CyUfq8G7h8lrGFZx","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
